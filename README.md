@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Isaac Bayo-Ajala
-- 👀 I’m a frontend and backend developer (bascially a fullstack developer)
-- 🌱 I’m currently learning python to be an AI engnieer
-- 💞️ I’m looking to collaborate on Frontend development and AI
-- 📫 How to reach me on instagram @izkbayo or gmail izkbayo35@gmail.com
-
+👋 Hi, I’m Isaac Bayo-Ajala
+🚀 Frontend Developer passionate about creating intuitive and responsive web applications
+🌱 Currently expanding my knowledge in Python with a focus on AI Engineering
+💡 I’m always exploring new technologies to enhance user experiences through dynamic and engaging interfaces
+🤝 Open to collaboration on Frontend Development and AI projects
+📫 Feel free to reach out Email at izkbayo35@gmail.com
 <!---
 izkbayo35/izkbayo35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
